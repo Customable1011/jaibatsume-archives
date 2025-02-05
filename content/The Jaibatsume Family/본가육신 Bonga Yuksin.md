@@ -7,4 +7,4 @@ The Six Spirits of the main house are the six main children of [[Yumi Jaibatsume
 * [[Ena Jaibatsume]]
 * [[Jade Jaibatsume]]
 
-Whilst they are considered the main six children of the house, Den Celestiasume was also fostered by [[Yumi Jaibatsume]] and cared for as though they were one of the main six
+Whilst they are considered the main six children of the house, [[Den Celestiasume]] was also fostered by [[Yumi Jaibatsume]] and cared for as though they were one of the main six.

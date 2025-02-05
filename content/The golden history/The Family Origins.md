@@ -1,5 +1,9 @@
 The **Jaibatsume** family has always been a somewhat upper class family, their roots extended across South Korea in the late 1800’s under the rule of the **Joseon Dynasty** and the name seemed to have appeared from nowhere, rising to power quickly without much explaination, even claiming seats among the cities councils for state decisions among the **Yangban aristocracy**, a class that held considerable power amidst the people, usually in government positions and elected into power by royal favour. There was much rumour surrounding the sudden appearance of the family and short-lived controversy; Jaibatsumes were described as the **hare disguised foxes**, unassuming, even innocent but vicious when their claws sunk in and their teeth tore flesh, ironic considering the Jaibatsume family sibol (Family Crest) which represented the hares ears under a crescent moon, symbolic of their nature to hide theirtrue selves until the right time.
 
+---
+
 ![[Family Sibol.png|100]]
+
+---
 
 The family, despite holding so much power in their roles, maintained Humble ties to their culture and community, defying all expectations of their class. Whilst they hadn’t engaged in trade directly under the family name, they controlled nearly the entire textile industry underground; all silk, cotton and luxury garments in the region passed through the family. The finest Hanboks, Po and Durumagi, all handcrafted by highly trained middle-class artisans, were commissioned and designed by the family and received high praise from other Yangban and noblemen; even their most affordable makes, using materials such as Hemp and Ramie, were considered high quality and very popular among commoners and working class citizens. through their carefully placed *’influence’* over merchants and textile guilds, the Jaibatsume family remained on their pedestal of power, insuring they were seen as tastemakers rather than middle class traders.
