@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Jaibatsume Archives
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+These archives links all **Jaibatsume history** and puts it in one place, you are able to view the graph and its connections with each topic on the right.
