@@ -9,6 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Family Discord": "https://discord.gg/ajuCncxXQU",
+      "Jaibatsume Cosmetics Discord": "https://discord.gg/CNJvq6v8SN",
+      "Jaibatsume Cosmetics Website": "https://www.jaibatsumecosmetics.net",
+      "@customable": "https://discord.com",
     },
   }),
 }
