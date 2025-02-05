@@ -30,13 +30,13 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Archive",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "",
     },
     graph: {
-      title: "Graph View",
+      title: "Documment Connections",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -47,8 +47,8 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Deep Dive",
+      searchBarPlaceholder: "Type any word or name to find related documents",
     },
     tableOfContents: {
       title: "Table of Contents",

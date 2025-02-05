@@ -36,7 +36,7 @@ export default {
       createdWith: "",
     },
     graph: {
-      title: "Graph View",
+      title: "Documment Connections",
     },
     recentNotes: {
       title: "Recent Notes",
