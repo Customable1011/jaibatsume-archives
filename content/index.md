@@ -51,6 +51,8 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 8. [[Hana Jaibatsume]]
 9. [[Jade Jaibatsume]]
 10. [[Den Celestiasume]]
+11. [[Stella Jaibatsume]]
+12. [[Korain Jaibatsume]]
 
 ---
 ## Tags

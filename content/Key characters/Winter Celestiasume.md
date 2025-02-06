@@ -4,5 +4,5 @@ tags:
 aliases: []
 ---
 ---
->*"Step on ice and you might just slip :]"*
+>*"Step on ice and you might just slip"*
 ---
