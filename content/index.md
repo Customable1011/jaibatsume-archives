@@ -36,3 +36,27 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 
 1. [[The Celestial Family]]
 2. [[The Mawji Family]]
+
+---
+## Other Characters
+##### These are other characters which link or relate to documents in some way or another.
+
+1. [[Da-jung Jaibatsume]]
+2. [[Lia Celestiasume]]
+3. [[Tamashi Tankyu-sha]]
+4. [[Asami Hasegawa]]
+5. [[Eden Jaibatsume]]
+6. [[Ena Jaibatsume]]
+7. [[Ga-yoon Jaibatsume]]
+8. [[Hana Jaibatsume]]
+9. [[Jade Jaibatsume]]
+10. [[Den Celestiasume]]
+
+---
+## Tags
+##### These specific tags for documents
+
+- #KeyCharacters 
+- #Dead 
+- #Councillors 
+- #SixSpiritsOfTheMainHouse 
