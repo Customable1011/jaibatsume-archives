@@ -9,11 +9,16 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 
 > The following list of documents are not in any specific order.
 > 
-> 'ʷ'   - **Have written information** within them
-> 'ʷᶦᵖ' - Have **Incomplete** Information in them
+> 'ʷ'   - **Have written information** within them.
+> 'ʷᶦᵖ' - Have **Incomplete** Information in them.
 
 ---
 # Character Books
+
+## Ancestral Kami
+##### These characters are extras with their own plots but with significance to the family.
+- [[Hwan Jaibatsume]] 'ʷᶦᵖ'
+- [[Mi-cha Jaibatsume]] 'ʷᶦᵖ'
 ## Key Characters
 ##### These are all characters who are essential to the plot of the family.
 - [[Kenzou Mawji]] 'ʷ'  
@@ -58,6 +63,8 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 ---
 # Related Lore
 ##### This is other lore that links into the story, locations and events specifically.
+- [[A War of Kindness and Hatred.]] 'ʷ'
+- [[Karakura]]
 - [[Karakura Highschool and Community College]]
 - [[Kilikimoto Academy]]
 
@@ -82,3 +89,4 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 - #Dead 
 - #Councillors 
 - #SixSpiritsOfTheMainHouse 
+-  #Side_Storys 
