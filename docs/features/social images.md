@@ -307,7 +307,7 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 >         alignItems: "flex-start",
 >         height: "100%",
 >         width: "100%",
->         backgroundImage: `./quartz/static/og-image.png")`,
+>         backgroundImage: `./quartz/static/og-image.png`,
 >         backgroundSize: "100% 100%",
 >       }}
 >     >
