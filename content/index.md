@@ -6,56 +6,76 @@ These archives links all **Jaibatsume history** and puts it in one place, you 
 It is recommended you begin from [[The Family Origins]] and [[The collapse of the Jaibatsume Yingban]] to understand the family's background before moving onto #KeyCharacters and other topics.
 
 ---
-## The Golden History
-##### The golden history is the original history of the family and how it came to fruition.
 
-1. [[The Family Origins]]
-2. [[The collapse of the Jaibatsume Yingban]]
+> The following list of documents are not in any specific order.
+> 
+> 'ʷ'   - **Have written information** within them
+> 'ʷᶦᵖ' - Have **Incomplete** Information in them
 
-- - -
+---
+# Character Books
 ## Key Characters
-##### These are characters which have key relevance to the plot of the Jaibatsume story, these will either be [[본가육신 Bonga Yuksin|the house of six]] or characters related to them.
+##### These are all characters who are essential to the plot of the family.
+- [[Kenzou Mawji]] 'ʷ'  
+- [[Mee-young Jaibatsume]] 'ʷ'
+- [[Winter Celestiasume]] 'ʷ'
+- [[Yumi Jaibatsume]] 'ʷ'
 
-1. [[Kenzou Mawji]]
-2. [[Yumi Jaibatsume]]
-3. [[Mee-young Jaibatsume]]
-4. [[Winter Celestiasume]]
-
-- - -
-## The Jaibatsume Family
-##### These will be other documents related to the family's history
-
-1. [[Jaibatsume Relic]]
-2. [[The Family Business]]
-3. [[The Family Council]]
-4. [[본가육신 Bonga Yuksin]]
-
-- - -
-## Related Families
-##### These are other families interweaved into the history of the Jaibatsume family in someway or another.
-
-1. [[The Celestial Family]]
-2. [[The Mawji Family]]
-
----
 ## Other Characters
-##### These are other characters which link or relate to documents in some way or another.
+##### These are all characters who have involvement in some way or form to certain documents or lore.
+- [[Asami Hasegawa]]
+- [[Dae-Hyun Mawji ( Den )]] 'ʷ'
+- [[Koji Hiroshima]]
+- [[Lia Mawji]] 'ʷ'
+- [[Tamashi Tankyu-sha]]
+- [[Sakura Mawji]] 'ʷᶦᵖ'
+- [[Dae-Hyung Gim]] 'ʷᶦᵖ'
 
-1. [[Da-jung Jaibatsume]]
-2. [[Lia Celestiasume]]
-3. [[Tamashi Tankyu-sha]]
-4. [[Asami Hasegawa]]
-5. [[Eden Jaibatsume]]
-6. [[Ena Jaibatsume]]
-7. [[Ga-yoon Jaibatsume]]
-8. [[Hana Jaibatsume]]
-9. [[Jade Jaibatsume]]
-10. [[Den Celestiasume]]
-11. [[Stella Jaibatsume]]
-12. [[Korain Jaibatsume]]
+## The Family Councillors
+##### These are all of the official Jaibatsume Family Councillors, dead and alive.
+- [[Chu-Hae Jaibatsume]]
+- [[Da-jung Jaibatsume]]
+- [[Ran-Jung Jaibatsume]]
+
+## The Jaibatsume Family
+##### These are all characters within the Jaibatsume Family but are not under any specific sub-section of plot.
+- [[Ga-yoon Jaibatsume]] 'ʷ'
+- [[Nigiri Jaibatsume]] 'ʷ'
+- [[Stella Jaibatsume]] 'ʷ'
+- [[Eden Jaibatsume]]
+- [[Ena Jaibatsume]]
+- [[Gu-Hyun Jaibatsume]]
+- [[Hana Jaibatsume]]
+- [[Jade Jaibatsume]]
+- [[Korain Jaibatsume]]
 
 ---
-## Tags
+# Related Families
+##### These are families related in some form to the history of the jaibatsume family.
+- [[The Celestial Family]]
+- [[The Mawji Family]]
+
+---
+# Related Lore
+##### This is other lore that links into the story, locations and events specifically.
+- [[Karakura Highschool and Community College]]
+- [[Kilikimoto Academy]]
+
+---
+# The Jaibatsume History
+##### This is the direct history related to the Jaibatsume family, any events, lore or objects are in this folder
+- [[Jaibatsume Relic]] 'ʷ' 
+- [[Rifle and Six shots ceremony]]
+- [[The Family Business]] 'ʷ' 
+- [[The Family Council]]
+- [[본가육신 Bonga Yuksin]] 'ʷ' 
+## The Golden History
+##### This is the original history of the family.
+- [[The Family Origins]] 'ʷ' 
+- [[The collapse of the Jaibatsume Yingban]] 'ʷ' 
+
+---
+# Tags
 ##### These specific tags for documents
 
 - #KeyCharacters 
