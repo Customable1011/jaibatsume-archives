@@ -28,7 +28,7 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 
 ## Other Characters
 ##### These are all characters who have involvement in some way or form to certain documents or lore.
-- [[Asami Hasegawa]]
+- [[Asami Hasegawa]] 'ʷ'
 - [[Dae-Hyun Mawji ( Den )]] 'ʷ'
 - [[Koji Hiroshima]]
 - [[Lia Mawji]] 'ʷ'
