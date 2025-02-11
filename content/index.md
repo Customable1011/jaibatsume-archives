@@ -5,6 +5,11 @@ These archives links all **Jaibatsume history** and puts it in one place, you 
 
 It is recommended you begin from [[The Family Origins]] and [[The collapse of the Jaibatsume Yingban]] to understand the family's background before moving onto #KeyCharacters and other topics.
 
+<u>Relevant Links:</u>
+- [**Family Discord**](https://discord.gg/335FFBtND4)
+- [**Jaibatsume Cosmetics Discord**](https://discord.gg/CNJvq6v8SN)
+- [**Jaibatsume Cosmetics Website**](https://www.jaibatsumecosmetics.net)
+
 ---
 
 > The following list of documents are not in any specific order.
