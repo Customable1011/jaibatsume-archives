@@ -14,3 +14,9 @@ Mee-young has a condition called Dissociative Identity Disorder which causes her
 
 Weirdly enough, she shares her dissociative disorder with her half-sister, [[Winter Celestiasume]], who also developed the disorder from shared abuse to their father, [[Kenzou Mawji]].
 
+---
+## Reference Photo
+
+---
+
+![[Mee-young 2k Bio Photo.png]]

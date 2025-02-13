@@ -2,5 +2,5 @@
 tags:
 ---
 ---
-> "Big back, Big back, Back so big you formed a crack"
+> "*Hm*... Hatred burns but change is fluid— *like water.*"
 ---
