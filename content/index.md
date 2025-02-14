@@ -68,6 +68,7 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 ---
 # Related Lore
 ##### This is other lore that links into the story, locations and events specifically.
+- [[Korain Jaibatsume - Journal Entry One|Korain's Journal Entries]]
 - [[A War of Kindness and Hatred.]] 'ʷ'
 - [[Karakura]]
 - [[Karakura Highschool and Community College]]
