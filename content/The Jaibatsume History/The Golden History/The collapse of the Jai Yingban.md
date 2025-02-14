@@ -1,0 +1,3 @@
+Following the [[The Family Origins|rise of the Jai family]] and a century of profitable trade, the world began to change. By 1952, as the Korean War intensified, the global economy destabilized. The textile industry suffered, with dwindling investments and increasing risks in acquiring silks and cottons. Lacking experience in warfare and war trade, the Jai family faced an existential crisis. In a desperate bid for survival, they fled to Japan, renaming themselves the **Jaibatsume** family- _Batsu_ meaning "punishment" and _Me_ meaning "eye."- **the Jai family's punishment in the eye of God,** marking their exile as both consequence and rebirth.
+
+

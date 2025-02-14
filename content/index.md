@@ -3,7 +3,7 @@ title: The Jaibatsume Archives
 ---
 These archives links all **Jaibatsume history** and puts it in one place, you are able to view the graph and its connections with each topic on the right.
 
-It is recommended you begin from [[The Family Origins]] and [[The collapse of the Jaibatsume Yingban]] to understand the family's background before moving onto #KeyCharacters and other topics.
+It is recommended you begin from [[The Family Origins]] and [[The collapse of the Jai Yingban]] to understand the family's background before moving onto #KeyCharacters and other topics.
 
 <u>Relevant Links:</u>
 - [**Family Discord**](https://discord.gg/335FFBtND4)
@@ -85,7 +85,7 @@ It is recommended you begin from [[The Family Origins]] and [[The collapse of th
 ## The Golden History
 ##### This is the original history of the family.
 - [[The Family Origins]] 'ʷ' 
-- [[The collapse of the Jaibatsume Yingban]] 'ʷ' 
+- [[The collapse of the Jai Yingban]] 'ʷ' 
 
 ---
 # Tags
